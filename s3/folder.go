@@ -40,7 +40,7 @@ const (
 
 var (
 	// MaxRetries limit upload and download retries during interaction with S3
-	MaxRetries  = 15
+	MaxRetries  = 1
 	SettingList = []string{
 		EndpointPortSetting,
 		EndpointSetting,

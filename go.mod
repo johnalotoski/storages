@@ -1,4 +1,4 @@
-module github.com/wal-g/storages
+module github.com/johnalotoski/storages
 
 go 1.13
 
